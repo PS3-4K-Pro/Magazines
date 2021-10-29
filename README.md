@@ -1,6 +1,6 @@
 <div align="center"> 
   
-# PlayStation-Magazines
+# PlayStation Magazines
 
 Official PlayStation Magazines downloader for PS3™4K Pro.
   
