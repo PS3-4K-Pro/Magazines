@@ -9,5 +9,5 @@ Official PlayStation Magazines downloader for PS3™4K Pro.
 
  # Credits
  
- All credits go to the magazine authors and game developers.
+ All credits goes to the magazine authors and game developers.
 </div>
